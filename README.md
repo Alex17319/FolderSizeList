@@ -15,4 +15,6 @@ Running the file directly (i.e. double clicking rather than dragging on a target
 
 Previously examined directories will be logged in the install directory (in a folder called 'Previous Folders'), in HTML format, so that they can be accessed again quickly without having to wait for the program to scan the folders again (this is time consuming for large folders).
 
+Example use (redacted):
+
 ![A redacted example of the program in use](ExampleUse.png)
