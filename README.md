@@ -13,7 +13,7 @@ The sizes will be listed for both folders directly included in the examined dire
 
 Running the file directly (i.e. double clicking rather than dragging on a target folder) will allow access to a settings menu.
 
-Previously examined directories will be logged in the install directory (in a folder called 'Previous Folders'), in HTML format, so that they can be accessed again quickly without having to wait for the program to scan the folders again (this is time consuming for large folders).
+Previously examined directories will be logged in the install directory (in a folder called 'Previous Folders'), in HTML format, so that they can be accessed again quickly without having to wait for the program to scan the folders again (although it uses a 'DIR /A:-D /S' command rather than enumerating files manually or something, it's still time consuming for large folders).
 
 Example use (redacted):
 
